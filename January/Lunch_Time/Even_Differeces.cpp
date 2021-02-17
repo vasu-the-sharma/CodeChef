@@ -2,10 +2,10 @@
 using namespace std;
 int main() {
     
-    int t;
-    cin>>t;
+    int tc;
+    cin>>tc;
 
-    while(t--){
+    while(tc--){
         int n;
         cin>>n;
         int arr[n];
